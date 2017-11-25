@@ -12,5 +12,6 @@
   "dependencies": {
     "colors": "^1.1.2",
     "sorted-joyo-kanji": "^0.2.0"
-  }
+  },
+  "repository": "github:millerdrew/colorful-kanji"
 }
