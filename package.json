@@ -1,6 +1,6 @@
 {
   "name": "colorful-kanji",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Display all the Joyo Kanji in groups of 100 using contrasting colors",
   "keywords": "Kanji",
   "main": "colorfulkanji.js",
