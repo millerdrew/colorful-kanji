@@ -1,0 +1,16 @@
+{
+  "name": "colorful-kanji",
+  "version": "1.0.1",
+  "description": "Display all the Joyo Kanji in groups of 100 using contrasting colors",
+  "keywords": "Kanji",
+  "main": "colorfulkanji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Miller <millerdrew@gmail.com> (http://joyfulcoding.github.io",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "sorted-joyo-kanji": "^0.2.0"
+  }
+}
